@@ -1,1 +1,2 @@
-# week6_credit_scoring
+# Bati Bank Credit Scoring Model
+The Bati Bank Credit Scoring Model leverages transactional data sourced from the eCommerce platform to establish a robust framework for categorizing users into high-risk and low-risk segments. This initiative involves identifying pertinent predictors of default, selecting relevant features, and constructing predictive models to assess risk probabilities. Ultimately, the model aims to compute credit scores, determine optimal loan amounts, and recommend suitable durations, thereby facilitating informed lending decisions and risk management strategies at Bati Bank.
